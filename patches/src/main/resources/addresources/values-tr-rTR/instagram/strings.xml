@@ -122,7 +122,7 @@
     <string name="piko_follow_list_non_follower_badge">Takip Edilenler listesinde takip etmeyenleri göster</string>
     <string name="piko_follow_list_non_follower_badge_desc">Kendi “Takip Edilenler” listenizdeki, sizi geri takip etmeyen hesapların satırlarına bir rozet ekler</string>
     <string name="piko_resume_reels_after_scrolling">Kaydırma işleminden sonra videoları oynatmaya devam et</string>
-    <string name="piko_resume_reels_after_scrolling_desc">Bir Reel\'si geri kaydırdığınızda, onu kaldığınız yerden izlemeye devam edin</string>
+    <string name="piko_resume_reels_after_scrolling_desc">Bir Reel\'i geri kaydırdığınızda, onu kaldığınız yerden izlemeye devam edin</string>
     <string name="piko_improve_image_viewing">Görsel kalitesini artır</string>
     <string name="piko_improve_image_viewing_desc">Sunucudan en yüksek çözünürlüklü görselleri çeker. Performansı düşürebilir, uygulama veri boyutunu artırabilir veya uygulamanın eski bir düzene geçmesine neden olabilir</string>
     <string name="piko_copy_comment">Yorumu kopyala</string>
